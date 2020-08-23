@@ -44,7 +44,9 @@ To decrypt the message ILBDA,
         Output: HELLO 
  
 These settings allow the machine to operate with over a hundred thousand (105,456) possible combinations to encrypt a single letter.
+
 --------------------------------------------------------------------------------------
+
 # A QUICK PRIMER ON HOW THE PROGRAM IS OPERATED 
 The program compiles without errors on the latest standard of C – C11. If compiled with C99 or any other such old standards, errors maybe thrown. 
 The program is run from the command line. 
