@@ -3,7 +3,7 @@ An enigma machine.
 
 --------------------------------------------------------------------------------------
 
-## A Quick Primer on How the Enigma Machine is Operated
+# A Quick Primer on How the Enigma Machine is Operated
 The enigma machine takes three things as an input.
 1. <ins>*Rotor configuration*</ins>
 2. <ins>*Wheel configuration*</ins>
@@ -48,7 +48,7 @@ These settings allow the machine to operate with over a hundred thousand (105,45
 
 --------------------------------------------------------------------------------------
 
-## A Quick Primer on How the Program is Operated
+# A Quick Primer on How the Program is Operated
 The program compiles without errors on the latest standard of C – C11. If compiled with C99 or any other such old standards, errors maybe thrown.  
 The program is run from the command line.  
 Eg: `gcc enigma.c -o enigma.exe`  
