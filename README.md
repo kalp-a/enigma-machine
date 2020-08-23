@@ -5,9 +5,9 @@ A simple rotor based enigme machine.
 
 ## A QUICK PRIMER ON HOW THE ENIGMA MACHINE IS OPERATED 
 The enigma machine takes three things as an input. 
-1. Rotor configuration
-2. Wheel configuration
-3. Message
+1. <ins>Rotor configuration</ins>
+2. <ins>Wheel configuration</ins>
+3. <ins>Message</ins>
 
 ## Rotor configuration:
 There are 3 rotor slots (left, center and right) on the machine that can be filled with the 3 rotor settings the machine gives – rotors 1, 2 and 3. 
