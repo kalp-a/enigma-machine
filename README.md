@@ -9,7 +9,7 @@ The enigma machine takes three things as an input.
 2. <ins>*Wheel configuration*</ins>
 3. <ins>*Message*</ins>
 
-<ins>## Rotor configuration:</ins>
+## <ins>Rotor configuration:</ins>
 There are 3 rotor slots (left, center and right) on the machine that can be filled with the 3 rotor settings the machine gives – rotors 1, 2 and 3. 
 E.g. The left rotor slot can have rotor 2 
 The center rotor slot can have rotor 1 
