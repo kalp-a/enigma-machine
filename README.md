@@ -52,7 +52,7 @@ These settings allow the machine to operate with over a hundred thousand (105,45
 The program compiles without errors on the latest standard of C – C11. If compiled with C99 or any other such old standards, errors maybe thrown.  
 The program is run from the command line.  
 Eg: `gcc enigma.c -o enigma.exe`  
-&nbsp; &nbsp; &nbsp;`.\enigma.exe`  
+&nbsp; &nbsp; &nbsp; `.\enigma.exe`  
 
 The program has 2 modes -
 1. Normal mode
