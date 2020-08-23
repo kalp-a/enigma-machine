@@ -87,9 +87,9 @@ E.g.: 212203 (the wheel setting is 21 22 3)
 
 The *message* can be an unseparated string of characters like – `ABCDEFG`,  
 Or, separated by a space in which case they should be put inside double quotes like so - `“ABCD EFG HIJ   KLM”`  
-[Note]: If single quotes are used instead of double, it is assumed as an invalid argument and it skips the command line mode entirely. If an incorrect number of arguments are given, it does the same.  
+<ins>Note:</ins> If single quotes are used instead of double, it is assumed as an invalid argument and it skips the command line mode entirely. If an incorrect number of arguments are given, it does the same.  
 
 Example: `.\enigma.exe 010203 010101 “HELLO WORLD”`  
 Output: `>ILBDA AMTAZ`  
 
-[Note]: If an invalid input is provided, the program says so and quits.
+<ins>Note:</ins> If an invalid input is provided, the program says so and quits.
