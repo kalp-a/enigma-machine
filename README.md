@@ -90,6 +90,6 @@ Or, separated by a space in which case they should be put inside double quotes l
 [Note]: If single quotes are used instead of double, it is assumed as an invalid argument and it skips the command line mode entirely. If an incorrect number of arguments are given, it does the same.  
 
 Example: `.\enigma.exe 010203 010101 “HELLO WORLD”`  
-Output: `ILBDA AMTAZ`  
+Output: `>ILBDA AMTAZ`  
 
 [Note]: If an invalid input is provided, the program says so and quits.
