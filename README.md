@@ -92,4 +92,4 @@ Or, separated by a space in which case they should be put inside double quotes l
 Example: `.\enigma.exe 010203 010101 “HELLO WORLD”`  
 Output: `>ILBDA AMTAZ`  
 
-<ins>Note:</ins> If an invalid input is provided, the program says so and quits.
+<ins>Note:</ins> If an invalid input is provided, the program specifies so and quits.
