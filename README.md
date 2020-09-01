@@ -5,9 +5,9 @@ An enigma machine.
 
 # A Quick Primer on How the Enigma Machine is Operated
 The enigma machine takes three things as an input.
-1. <ins>*Rotor configuration*</ins>
-2. <ins>*Wheel configuration*</ins>
-3. <ins>*Message*</ins>
+1. *Rotor configuration*
+2. *Wheel configuration*
+3. *Message*
 
 ## *Rotor configuration:*
 There are 3 rotor slots (left, center and right) on the machine that can be filled with the 3 rotor settings the machine gives – rotors 1, 2 and 3.  
@@ -58,7 +58,7 @@ The program has 2 modes -
 1. Normal mode
 2. Command line mode
 
-## Normal mode
+## *Normal mode*
 After running enigma.exe or enigma.out, the first thing required is the *rotor configuration*.  
 The three rotors – 1, 2 and 3. These can be given in any order (separated by a space each) as the input, as long as they are not repeating.  
 E.g.: 1 2 3  
@@ -74,7 +74,7 @@ The last thing required is the *message*.
 This is a string that is to be decoded/encoded according to the above configuration settings, to be entered just as a normal string, with or without space. All characters OTHER than the alphabet (capital or small) are ignored.  
 The configuration settings along with the message will produce an output after running through the Enigma Machine.  
 
-## Command line mode
+## *Command line mode*
 It is run through a command prompt like so – `enigma *[rotor configuration]* *[wheel configuration]* *[message]*`  
 
 The rotor configuration is taken as three two-digit numbers. The input should be like so – `0[number]0[number]0[number]`  
