@@ -9,7 +9,7 @@ The enigma machine takes three things as an input.
 2. <ins>*Wheel configuration*</ins>
 3. <ins>*Message*</ins>
 
-## <ins>*Rotor configuration:*</ins>
+## *Rotor configuration:*
 There are 3 rotor slots (left, center and right) on the machine that can be filled with the 3 rotor settings the machine gives – rotors 1, 2 and 3.  
 E.g. The left rotor slot can have rotor 2  
 &nbsp;  &nbsp;  &nbsp;  &nbsp;The center rotor slot can have rotor 1   
@@ -20,7 +20,7 @@ The left rotor slot can be filled with any of the three rotors,
 The center rotor slot can be filled with any of the remaining two rotors,  
 The right rotor slot has to be filled with the last remaining rotor.  
 
-## <ins>*Wheel configuration:*</ins>
+## *Wheel configuration:*
 There are 26 wheel settings for each of the rotor slots (from 1 to 26).  
 The left rotor slot can have any wheel setting from 1 to 26. So can the other two.  
 E.g. The left rotor wheel setting can be 5  
@@ -30,7 +30,7 @@ E.g. The left rotor wheel setting can be 5
 Hence, the *wheel configuration* here is 5 17 26  
 Repeated numbers for the *wheel configuration* are allowed – e.g. 2 2 2, or 1 1 1, or 17 17 17.  
 
-## <ins>*Message*</ins>
+## *Message*
 The message is a string of alphabet characters, be it small, capital, space separated or otherwise. Numbers and/or special characters are ignored.  
 The message is encrypted according to the configuration settings.  
 To *decrypt* an encoded message, the encoded message can be input as *message* with the same configuration settings used to *encrypt* it.  
